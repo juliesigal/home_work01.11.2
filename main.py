@@ -14,3 +14,8 @@ print(sort_list)
 
 ****** targil 3:
   
+list1 = [1,2]
+list2 = [4,5]
+tup_list = [(j,i)  for j in list1 for i in list2  ]
+print(tup_list)  
+  
